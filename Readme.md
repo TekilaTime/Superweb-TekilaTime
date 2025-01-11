@@ -16,3 +16,4 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- editadoPorDaniel.html : esto es el codigo que va a añadir Daniel en la rama nueva
